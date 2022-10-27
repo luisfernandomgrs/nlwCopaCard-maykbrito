@@ -1,3 +1,10 @@
+# Public Url to access page from this project:
+
+https://luisfernandomgrs.github.io/nlwCopaCard-maykbrito/
+
+
+## More details of this project:
+
 Este projeto foi implementado com base no vídeo em:
 
   . projeto: https://www.youtube.com/watch?v=sswJisbD2CY&t=1545s
